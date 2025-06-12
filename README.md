@@ -20,10 +20,15 @@ Deploy a sample web page
 
 📁 Project Structure
 ec2-terraform-ansible/
+
 ├── terraform/       ➜ Terraform code
+
 ├── ansible/         ➜ Ansible code
+
 ├── ssh-key/         ➜ SSH keys (for server login)
+
 └── README.md        ➜ Project summary
+
 ------------------------------------------------------------------
 
 🛠 Step-by-Step Guide:
